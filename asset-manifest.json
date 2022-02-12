@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/my-app-reaact/static/css/main.073c9b0a.css",
+    "main.js": "/my-app-reaact/static/js/main.2fe25c07.js",
+    "static/js/787.28cb0dcd.chunk.js": "/my-app-reaact/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/my-app-reaact/index.html",
+    "main.073c9b0a.css.map": "/my-app-reaact/static/css/main.073c9b0a.css.map",
+    "main.2fe25c07.js.map": "/my-app-reaact/static/js/main.2fe25c07.js.map",
+    "787.28cb0dcd.chunk.js.map": "/my-app-reaact/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.2fe25c07.js"
+  ]
+}

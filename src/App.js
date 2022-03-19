@@ -75,7 +75,7 @@ function App() {
       <Routes>
           <Route exact path="/about" element={<About mode={mode} />}>
           </Route>
-          <Route exact path="/" element={<TextForms showAlert={showAlert} heading="Your text to analyze" mode={mode} />}>
+          <Route exact path="/my-app-reaact" element={<TextForms showAlert={showAlert} heading="Your text to analyze" mode={mode} />}>
           </Route>
       </Routes>
       {/* <TextForms showAlert={showAlert} heading="Your text to analyze" mode={mode} /> */}
